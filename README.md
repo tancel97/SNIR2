@@ -1,4 +1,4 @@
 # SNIR2
 Travaux réalisés durant ma seconde année de BTS SNIR
 
-(Navigation via la branche)
+(Pour naviguer, cliquez sur la branche "main")
